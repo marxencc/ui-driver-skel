@@ -1,0 +1,1 @@
+- Discussion here: https://forums.rancher.com/t/how-to-write-a-new-custom-node-driver/17309
